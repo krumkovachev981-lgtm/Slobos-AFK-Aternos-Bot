@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "krumi7194-mURw.aternos.me:53838",
+    "ip": "krumi7194-mURw.aternos.me",
     "port": 53838,
     "version": "1.21.1",
     "try-creative": false
