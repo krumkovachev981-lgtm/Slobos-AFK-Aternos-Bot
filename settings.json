@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
+    "ip": "krumi7194-mURw.aternos.me:53838",
+    "port": 53838,
     "version": "",
     "try-creative": false
   },
